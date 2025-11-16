@@ -2,7 +2,10 @@
 
 <div align="center">
 
-![Astro AI Chatbot]()
+<img src="https://github.com/user-attachments/assets/7191280a-c335-415e-a74c-307e9174ce84"
+     alt="Astro Template"
+     width="1920" height="1080"
+     style="display:block; margin-bottom:20px;" />
 
 ![Astro](https://astro.build/assets/press/astro-icon-light-gradient.svg)
 

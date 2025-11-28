@@ -9,11 +9,13 @@ export default defineConfig({
   integrations: [react()],
 
   vite: {
+    site: 'https//jcaicedotrochez.githubu.io'
     resolve: {
       alias: {
         '@': fileURLToPath(new URL('./src', import.meta.url))
       }
     },
     plugins: [tailwindcss()]
+    
   }
 });
